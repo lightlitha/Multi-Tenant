@@ -1,0 +1,14 @@
+{
+    "name": "faceless/tenant",
+    "description": "Multi-tenant package to store tenants & their subscriptions",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Lilitha Mathangana",
+            "email": "lightlitha@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
